@@ -1,9 +1,11 @@
 # KaSpam
 
 ### Setup
+run in windows command line to install dependencies:
 ```
-npm i
+npm install
 ```
+<br/>
 
 ### Run
 run in windows command line:

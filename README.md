@@ -14,4 +14,4 @@ start spammer ID name count
 ```
 * `ID`: the id of the quiz.
 * `name`: the name of the bots.
-* `count`: number of bots.
+* `count`: number of bots. (no cap)
